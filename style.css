@@ -1,0 +1,52 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+.manu-color {
+  color: black;
+  font-size: 14px;
+}
+.manu-color:hover {
+  color: red;
+}
+.dropdown-color li a:hover {
+  background-color: red;
+}
+.header-section {
+  background-color: black;
+  width: 100%;
+  height: 400px;
+  position: relative;
+}
+.mian-img {
+  background-image: url("img/main\ \(1\).png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-color: black;
+  width: 559px;
+}
+.bottom-img {
+  position: absolute;
+  top: 316px;
+  width: 677px;
+  height: 163px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.img1 {
+  background-color: white;
+}
+.img2 {
+  background-color: red;
+}
+.img2 img {
+  width: 71px;
+}
+.img3 {
+  background-color: white;
+}
+.botom-mid-img1 {
+  margin-top: ;
+}
